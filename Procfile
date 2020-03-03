@@ -1,1 +1,1 @@
-bot: bundle exec ruboty --dotenv -l handlers/handlers.rb
+bot: bundle exec ruboty -l handlers/handlers.rb
