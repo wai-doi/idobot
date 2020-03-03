@@ -7,3 +7,4 @@ ruby '2.6.5'
 
 gem 'ruboty'
 gem 'ruboty-idobata'
+gem 'pry-byebug'
